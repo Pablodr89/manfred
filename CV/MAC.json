@@ -442,6 +442,10 @@
           "type": "technology"
         },
         {
+          "name": "Redux",
+          "type": "technology"
+        },
+        {
           "name": "SQLServer",
           "type": "technology"
         },
