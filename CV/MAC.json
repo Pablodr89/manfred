@@ -11,8 +11,8 @@
       "title": "Junior Frontend Developer",
       "description": "Después de muchos años trabajando para el sector deportivo, he decidido cambiar el rumbo de mi vida estudiando en el sector informático, como siempre intentando crecer tanto personal como profesionalmente.\n\nEmpiezo de cero en un nuevo sector, con las mismas ganas con las que empecé mi primera carrera profesional.\n\nSoy un desarrollador frontend, autodidacta, responsable y con gran entusiasmo. Tengo conocimientos avanzados en maquetación HTML, CSS, SASS y frameworks como Bootstrap o Tailwind. Además estoy formado en Angular, Vue.js y React, teniendo bastante conocimientos sobre dichos frameworks. Manejo mucho de Javascript y jQuery, por lo que aprender frameworks como React o Vue me resulto más sencillo.\n\nAndo siempre queriendo crecer como profesional y busco la mejoría constante, tanto a la hora de desarrollar apps como en mi propia formación, por lo que me gusta realizar tareas de la mejor manera posible y con el mejor código posible, así como cumplir con buenas prácticas y un código limpio.\n\nPara cualquier ampliación sobre mi perfil no duden en ponerse en contacto conmigo.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/b746430b-ccac-4d05-bc8b-51d426f4057a_linkedin-photo-43760.linkedin-photo-43760",
-        "alt": "24/02/21/b746430b-ccac-4d05-bc8b-51d426f4057a_linkedin-photo-43760.linkedin-photo-43760"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/7ad68708-f076-4ce2-9c0b-499513f96c9c_linkedin-photo-43760.linkedin-photo-43760",
+        "alt": "24/02/21/7ad68708-f076-4ce2-9c0b-499513f96c9c_linkedin-photo-43760.linkedin-photo-43760"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJVXNflFxwEg0RWXx1BsM1Zx8)",
@@ -118,8 +118,8 @@
         "organization": {
           "name": "Tipatip",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/52246508-0088-40a6-b198-8a4212929e63_linkedin-photo-43760.linkedin-photo-43760",
-            "alt": "24/02/21/52246508-0088-40a6-b198-8a4212929e63_linkedin-photo-43760.linkedin-photo-43760"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/49a74438-c415-492d-9c9a-6a15084dad03_linkedin-photo-43760.linkedin-photo-43760",
+            "alt": "24/02/21/49a74438-c415-492d-9c9a-6a15084dad03_linkedin-photo-43760.linkedin-photo-43760"
           }
         },
         "roles": [
@@ -138,8 +138,8 @@
         "organization": {
           "name": "NTT DATA Europe & Latam",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/b159faf5-84ce-46c8-a43e-1e194a2ea9df_linkedin-photo-43760.linkedin-photo-43760",
-            "alt": "24/02/21/b159faf5-84ce-46c8-a43e-1e194a2ea9df_linkedin-photo-43760.linkedin-photo-43760"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/7e3d1cd1-4003-4892-8956-a03792223ac2_linkedin-photo-43760.linkedin-photo-43760",
+            "alt": "24/02/21/7e3d1cd1-4003-4892-8956-a03792223ac2_linkedin-photo-43760.linkedin-photo-43760"
           }
         },
         "roles": [
@@ -312,243 +312,158 @@
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Bootstrap",
-        "startDate": "2023-01-01",
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bootstrap 5",
+        "startDate": "2022-11-01",
         "institution": {
-          "name": "Udemy",
-          "URL": "https://www.udemy.com/course/aprende-bootstrap-4-el-framework-responsive-html5-css3-y-js/learn/lecture/29821176?start=0#overview"
+          "name": "Udemy"
         },
-        "linkedCompetences": [
-          {
-            "name": "Bootstrap",
-            "type": "technology"
-          },
-          {
-            "name": "Sass",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2023-01-31"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Desarrollo de Aplicaciones Web",
-        "startDate": "2021-10-01",
-        "institution": {
-          "name": "Cesur",
-          "description": "FP Superior DAW con formación dual en NTT Data"
-        },
-        "finishDate": "2023-06-01",
-        "linkedCompetences": [
-          {
-            "name": "Angular2+",
-            "type": "technology"
-          },
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "NodeJS",
-            "type": "technology"
-          },
-          {
-            "name": "TypeScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "JS, HTML, CSS, SASS, PHP y MySQL",
-        "startDate": "2022-10-01",
-        "institution": {
-          "name": "Udemy",
-          "URL": "https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/learn/lecture/29228842?start=0#overview"
-        },
-        "linkedCompetences": [
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "MySQL",
-            "type": "technology"
-          },
-          {
-            "name": "PHP",
-            "type": "technology"
-          },
-          {
-            "name": "Sass",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "JS, jQuery, Angular y Node.js",
-        "startDate": "2023-03-01",
-        "institution": {
-          "name": "Udemy",
-          "URL": "https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/learn/lecture/10332162?start=0#overview"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Angular2+",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "NodeJS",
-            "type": "technology"
-          },
-          {
-            "name": "jQuery",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Jest",
-        "startDate": "2023-11-01",
+        "name": "CSS3 Avanzado",
+        "startDate": "2023-10-01",
         "institution": {
           "name": "Udemy"
         },
-        "linkedCompetences": [
-          {
-            "name": "Jest",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2023-10-31"
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Lit-Element",
-        "startDate": "2023-05-01",
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Desarrollo Web Completo",
+        "startDate": "2022-06-01",
         "institution": {
-          "name": "Udemy",
-          "URL": "https://www.udemy.com/course/desarrollo-de-aplicaciones-web-con-web-component/learn/lecture/30752388?start=0#overview"
+          "name": "Udemy"
         },
-        "linkedCompetences": [
-          {
-            "name": "LitElement",
-            "type": "technology"
-          },
-          {
-            "name": "Stencil.js",
-            "type": "technology"
-          },
-          {
-            "name": "WebComponents",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2022-10-31"
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Entrenador de baloncesto nivel 1",
+        "startDate": "2013-01-01",
+        "institution": {
+          "name": "FAB Sevilla"
+        },
+        "finishDate": "2013-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "FP Superior , Desarrollo de aplicaciones web",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "Cesur",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/5758427d-a30e-46d4-95ab-94d22ac82de3_linkedin-photo-43760.linkedin-photo-43760",
+            "alt": "24/02/21/5758427d-a30e-46d4-95ab-94d22ac82de3_linkedin-photo-43760.linkedin-photo-43760"
+          }
+        },
+        "finishDate": "2023-06-30"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "MongoDB",
         "startDate": "2023-01-01",
         "institution": {
-          "name": "Udemy",
-          "URL": "https://www.udemy.com/course/curso-de-mongodb-aprende-bases-de-datos-nosql/learn/lecture/7065424?start=0#overview"
+          "name": "Udemy"
         },
-        "linkedCompetences": [
-          {
-            "name": "MongoDB",
-            "type": "technology"
-          },
-          {
-            "name": "Mongoose",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2023-01-31"
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "NgRx",
+        "startDate": "2023-10-01",
+        "institution": {
+          "name": "Udemy"
+        },
+        "finishDate": "2023-11-30"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Primeros Auxilios",
+        "startDate": "2020-09-01",
+        "institution": {
+          "name": "Esforem"
+        },
+        "finishDate": "2020-09-30"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Pruebas unitarias en Angular con Jest",
         "startDate": "2023-11-01",
         "institution": {
           "name": "Udemy"
         },
-        "linkedCompetences": [
-          {
-            "name": "Angular2+",
-            "type": "technology"
-          },
-          {
-            "name": "NgRx",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2023-12-31"
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "React",
+        "startDate": "2023-12-01",
+        "institution": {
+          "name": "Udemy"
+        },
+        "finishDate": "2024-02-28"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Tailwind",
         "startDate": "2023-01-01",
         "institution": {
-          "name": "Udemy",
-          "URL": "https://www.udemy.com/course/curso-de-tailwind-css-desde-cero-hasta-profesional/learn/lecture/25031864?start=0#overview"
+          "name": "Udemy"
         },
-        "linkedCompetences": [
-          {
-            "name": "Tailwind",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2023-01-31"
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Vue.js",
-        "startDate": "2023-09-01",
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Superior en Animación de Actividades Físicas y Deportivas (TAFAD)",
+        "startDate": "2008-01-01",
         "institution": {
-          "name": "Udemy",
-          "URL": "https://www.udemy.com/course/vuejs-la-guia-completa-composition-pinia-mevn-creando-proyectos-reales/learn/lecture/37865330?start=15#overview"
+          "name": "IES Virgen de Los Reyes"
         },
-        "linkedCompetences": [
-          {
-            "name": "Tailwind",
-            "type": "technology"
-          },
-          {
-            "name": "Vue",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2010-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Vue.js",
+        "startDate": "2023-08-01",
+        "institution": {
+          "name": "Udemy"
+        },
+        "finishDate": "2023-10-31"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Web components, Lit Element y Stencil",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Udemy"
+        },
+        "finishDate": "2023-06-30"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "jQuery, Angular y NodeJS",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "Udemy"
+        },
+        "finishDate": "2023-03-31"
       }
     ]
   },
