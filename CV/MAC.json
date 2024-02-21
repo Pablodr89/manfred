@@ -434,6 +434,10 @@
           "type": "technology"
         },
         {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
           "name": "NgRx",
           "type": "technology"
         },
