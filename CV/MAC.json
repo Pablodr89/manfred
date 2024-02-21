@@ -1,0 +1,585 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Pablo",
+      "surnames": "Domínguez Romero",
+      "title": "Desarrollador Frontend Junior",
+      "description": "Después de muchos años trabajando para el sector deportivo, he decidido cambiar el rumbo de mi vida estudiando en el sector informático, como siempre intentando crecer tanto personal como profesionalmente. \nEmpiezo de cero en un nuevo sector, con 13 años más que cuando empecé en el deporte, pero con las mismas ganas con las que empieza una persona con 20 años.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/21/75f6cc9d-fbda-4a80-9478-a9bfe11de2a4_foto-carnet.jpg",
+        "alt": "Foto carnet.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJkWK-FBFsEg0RSFb-HGIY8DQ)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Sevilla"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/Pablodr89"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Tipatip"
+        },
+        "roles": [
+          {
+            "name": "Junior Frontend developer",
+            "startDate": "2023-10-01",
+            "challenges": [
+              {
+                "description": "Evolutivo con JS y jQuery y maquetación con HTML, CSS y Bootstrap"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AJAX",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPMyAdmin",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NTT Data"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador junior frontend",
+            "startDate": "2022-10-01",
+            "finishDate": "2023-06-01",
+            "challenges": [
+              {
+                "description": "Alumno dual de segundo curso como desarrollador web(especialización en frontend), realizando trabajos de maquetación, Angular y Lit-Element."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Bootstrap",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com/course/aprende-bootstrap-4-el-framework-responsive-html5-css3-y-js/learn/lecture/29821176?start=0#overview"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Desarrollo de Aplicaciones Web",
+        "startDate": "2021-10-01",
+        "institution": {
+          "name": "Cesur",
+          "description": "FP Superior DAW con formación dual en NTT Data"
+        },
+        "finishDate": "2023-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "JS, HTML, CSS, SASS, PHP y MySQL",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql/learn/lecture/29228842?start=0#overview"
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "JS, jQuery, Angular y Node.js",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/learn/lecture/10332162?start=0#overview"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "jQuery",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Jest",
+        "startDate": "2023-11-01",
+        "institution": {
+          "name": "Udemy"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jest",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Lit-Element",
+        "startDate": "2023-05-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com/course/desarrollo-de-aplicaciones-web-con-web-component/learn/lecture/30752388?start=0#overview"
+        },
+        "linkedCompetences": [
+          {
+            "name": "LitElement",
+            "type": "technology"
+          },
+          {
+            "name": "Stencil.js",
+            "type": "technology"
+          },
+          {
+            "name": "WebComponents",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "MongoDB",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com/course/curso-de-mongodb-aprende-bases-de-datos-nosql/learn/lecture/7065424?start=0#overview"
+        },
+        "linkedCompetences": [
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "Mongoose",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "NgRx",
+        "startDate": "2023-11-01",
+        "institution": {
+          "name": "Udemy"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "NgRx",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Tailwind",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com/course/curso-de-tailwind-css-desde-cero-hasta-profesional/learn/lecture/25031864?start=0#overview"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Tailwind",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Vue.js",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com/course/vuejs-la-guia-completa-composition-pinia-mevn-creando-proyectos-reales/learn/lecture/37865330?start=15#overview"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Tailwind",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://github.com/Pablodr89",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "padoro89@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "Bootstrap",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Google Firebase",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "SQLServer",
+          "type": "technology"
+        },
+        {
+          "name": "Sass",
+          "type": "technology"
+        },
+        {
+          "name": "Tailwind",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Vue",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Busco un empleo frontend developer que mejore mis condiciones actuales, utilizando las últimas tecnologías como Angular, React o Vue, un empleo donde tenga compañeros de referencia con los que poder seguir creciendo y además, asuma retos con los que igualmente seguir creciendo profesionalmente. Soy un junior con 1 año de experiencia y me gustaría conocer ofertas en ese rango de experiencia para lo dicho, mejorar mis condiciones laborales actuales."
+  }
+}
