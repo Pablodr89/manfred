@@ -207,7 +207,13 @@
       },
       {
         "skill": {
-          "name": "SaaS",
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
           "type": "technology"
         }
       },
