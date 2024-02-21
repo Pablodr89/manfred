@@ -129,7 +129,7 @@
       },
       {
         "skill": {
-          "name": "Express",
+          "name": "Cypress",
           "type": "technology"
         }
       },
@@ -141,7 +141,7 @@
       },
       {
         "skill": {
-          "name": "Gulp.JS",
+          "name": "Github",
           "type": "technology"
         }
       },
@@ -202,6 +202,12 @@
       {
         "skill": {
           "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SaaS",
           "type": "technology"
         }
       },
