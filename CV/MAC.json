@@ -434,6 +434,10 @@
           "type": "technology"
         },
         {
+          "name": "NgRx",
+          "type": "technology"
+        },
+        {
           "name": "NodeJS",
           "type": "technology"
         },
