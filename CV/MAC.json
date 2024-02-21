@@ -11,8 +11,8 @@
       "title": "Junior Frontend Developer",
       "description": "Después de muchos años trabajando para el sector deportivo, he decidido cambiar el rumbo de mi vida estudiando en el sector informático, como siempre intentando crecer tanto personal como profesionalmente.\n\nEmpiezo de cero en un nuevo sector, con las mismas ganas con las que empecé mi primera carrera profesional.\n\nSoy un desarrollador frontend, autodidacta, responsable y con gran entusiasmo. Tengo conocimientos avanzados en maquetación HTML, CSS, SASS y frameworks como Bootstrap o Tailwind. Además estoy formado en Angular, Vue.js y React, teniendo bastante conocimientos sobre dichos frameworks. Manejo mucho de Javascript y jQuery, por lo que aprender frameworks como React o Vue me resulto más sencillo.\n\nAndo siempre queriendo crecer como profesional y busco la mejoría constante, tanto a la hora de desarrollar apps como en mi propia formación, por lo que me gusta realizar tareas de la mejor manera posible y con el mejor código posible, así como cumplir con buenas prácticas y un código limpio.\n\nPara cualquier ampliación sobre mi perfil no duden en ponerse en contacto conmigo.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/e1151513-9276-4540-b9e9-1d98b7f22e59_linkedin-photo-43760.linkedin-photo-43760",
-        "alt": "24/02/21/e1151513-9276-4540-b9e9-1d98b7f22e59_linkedin-photo-43760.linkedin-photo-43760"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/f5c1009c-6d89-4693-9489-c25af06cd9bc_linkedin-photo-43760.linkedin-photo-43760",
+        "alt": "24/02/21/f5c1009c-6d89-4693-9489-c25af06cd9bc_linkedin-photo-43760.linkedin-photo-43760"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJVXNflFxwEg0RWXx1BsM1Zx8)",
@@ -29,6 +29,143 @@
       {
         "type": "github",
         "URL": "https://github.com/Pablodr89"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Out of network connection"
+        },
+        "roles": [
+          {
+            "name": "Juan Manuel Cano Moguer",
+            "startDate": "2024-02-21",
+            "challenges": [
+              {
+                "description": "Juan Manuel Cano Moguer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Out of network connection"
+        },
+        "roles": [
+          {
+            "name": "Carlos Martin Marin",
+            "startDate": "2024-02-21",
+            "challenges": [
+              {
+                "description": "Carlos Martin Marin"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Out of network connection"
+        },
+        "roles": [
+          {
+            "name": "Juan Carlos Del Moral Hernández",
+            "startDate": "2024-02-21",
+            "challenges": [
+              {
+                "description": "Juan Carlos Del Moral Hernández"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Out of network connection"
+        },
+        "roles": [
+          {
+            "name": "José Antonio Gómez Rodríguez",
+            "startDate": "2024-02-21",
+            "challenges": [
+              {
+                "description": "José Antonio Gómez Rodríguez"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Out of network connection"
+        },
+        "roles": [
+          {
+            "name": "Paula Hidalgo",
+            "startDate": "2024-02-21",
+            "challenges": [
+              {
+                "description": "Paula Hidalgo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tipatip",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/2ead4d3d-c7ec-49f1-81dd-3a5626809dae_linkedin-photo-43760.linkedin-photo-43760",
+            "alt": "24/02/21/2ead4d3d-c7ec-49f1-81dd-3a5626809dae_linkedin-photo-43760.linkedin-photo-43760"
+          }
+        },
+        "roles": [
+          {
+            "name": "Junior Frontend Developer",
+            "startDate": "2023-10-01",
+            "challenges": [
+              {
+                "description": "- Desarrollo de mantenimiento, evolutivo y de nuevas funcionalidades con Javascript, jQuery y PHP.\n- Gestión de base de datos MySQL.\n- Diseño y maquetación web de nuevas vistas y mejora de las existentes con HTML, CSS y Bootstrap."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NTT DATA Europe & Latam",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/89729b6f-b969-40d0-b8b6-63591507b4bd_linkedin-photo-43760.linkedin-photo-43760",
+            "alt": "24/02/21/89729b6f-b969-40d0-b8b6-63591507b4bd_linkedin-photo-43760.linkedin-photo-43760"
+          }
+        },
+        "roles": [
+          {
+            "name": "Junior Frontend Developer",
+            "startDate": "2022-10-01",
+            "finishDate": "2023-06-30",
+            "challenges": [
+              {
+                "description": "Alumno dual de segundo curso como desarrollador web(especialización en frontend)\n- Desarrollo de mantenimiento en proyecto Orange con Angular\n- Maquetación web con HTML, CSS y SASS"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CB Dos Hermanas"
+        },
+        "roles": [
+          {
+            "name": "Entrenador de baloncesto",
+            "startDate": "2012-10-01",
+            "finishDate": "2015-04-30"
+          }
+        ]
       }
     ]
   },
