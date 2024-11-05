@@ -153,7 +153,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -431,6 +431,12 @@
       ],
       "contactMails": [
         "padoro89@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "665765354",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
@@ -522,7 +528,7 @@
       ],
       "discardedCompetences": [
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
