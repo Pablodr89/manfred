@@ -36,6 +36,64 @@
     "jobs": [
       {
         "organization": {
+          "name": "Metales",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/05/05/f93f0359-3837-4e1c-bd2b-094db1b0df50_metlabs_desarrollo_b.jpeg",
+            "alt": "metlabs_desarrollo_blockchain_logo.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend developer",
+            "startDate": "2024-08-01",
+            "challenges": [
+              {
+                "description": "Desarrollador frontend con React, CSS, Tailwind"
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "Zustand",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Tipatip",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/21/c1586646-fcd4-4b5b-a791-ec935662bef2_linkedin-photo-43760.linkedin-photo-43760",
