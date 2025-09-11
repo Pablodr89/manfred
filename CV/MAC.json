@@ -484,6 +484,14 @@
         },
         "finishDate": "2023-03-31"
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
