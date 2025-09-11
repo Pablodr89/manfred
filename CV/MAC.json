@@ -266,6 +266,12 @@
       },
       {
         "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Redux",
           "type": "technology"
         }
@@ -609,15 +615,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Angular2+",
-        "type": "technology"
-      },
-      {
-        "name": "CSS",
-        "type": "technology"
-      },
-      {
-        "name": "HTML",
+        "name": "NextJS",
         "type": "technology"
       },
       {
@@ -625,7 +623,15 @@
         "type": "technology"
       },
       {
-        "name": "Vue",
+        "name": "React Native",
+        "type": "technology"
+      },
+      {
+        "name": "Tailwind",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
         "type": "technology"
       }
     ],
