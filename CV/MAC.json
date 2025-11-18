@@ -49,7 +49,7 @@
             "finishDate": "2025-10-01",
             "challenges": [
               {
-                "description": "Desarrollador frontend con React, CSS, Tailwind"
+                "description": "- Desarrollo frontend con React, Next.js, JavaScript, TypeScript y TailwindCSS.\n- Integración de APIs mediante TanStack Query.\n- Gestión de datos y lógica relacionada con PostgreSQL."
               }
             ],
             "competences": [
