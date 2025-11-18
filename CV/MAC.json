@@ -108,7 +108,7 @@
             "finishDate": "2024-08-01",
             "challenges": [
               {
-                "description": "- Desarrollo de mantenimiento, evolutivo y de nuevas funcionalidades con React, Javascript y PHP.\n- Gestión de base de datos MySQL.\n- Diseño y maquetación web de nuevas vistas y mejora de las existentes con HTML, CSS y Bootstrap."
+                "description": "- Desarrollo full-stack con React, Javascript y PHP.\n- Gestión de base de datos MySQL y creación de operaciones CRUD.\n- Implementación de interfaces responsivas con HTML, CSS y Bootstrap.\n- Integración de APIs externas y mejora de funcionalidades."
               }
             ]
           }
