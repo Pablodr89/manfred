@@ -108,7 +108,7 @@
             "finishDate": "2024-08-01",
             "challenges": [
               {
-                "description": "- Desarrollo de mantenimiento, evolutivo y de nuevas funcionalidades con Javascript, jQuery y PHP.\n- Gestión de base de datos MySQL.\n- Diseño y maquetación web de nuevas vistas y mejora de las existentes con HTML, CSS y Bootstrap."
+                "description": "- Desarrollo de mantenimiento, evolutivo y de nuevas funcionalidades con React, Javascript y PHP.\n- Gestión de base de datos MySQL.\n- Diseño y maquetación web de nuevas vistas y mejora de las existentes con HTML, CSS y Bootstrap."
               }
             ]
           }
