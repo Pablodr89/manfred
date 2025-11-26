@@ -413,11 +413,11 @@
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "React",
-        "startDate": "2023-12-01",
+        "startDate": "2023-03-01",
         "institution": {
           "name": "Udemy"
         },
-        "finishDate": "2024-02-28"
+        "finishDate": "2024-05-01"
       },
       {
         "studyType": "unaccredited",
