@@ -417,7 +417,7 @@
         "institution": {
           "name": "Udemy"
         },
-        "finishDate": "2024-05-01"
+        "finishDate": "2023-05-01"
       },
       {
         "studyType": "unaccredited",
@@ -464,16 +464,6 @@
           "name": "Udemy"
         },
         "finishDate": "2023-10-31"
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Web components, Lit Element y Stencil",
-        "startDate": "2023-05-01",
-        "institution": {
-          "name": "Udemy"
-        },
-        "finishDate": "2023-06-30"
       },
       {
         "studyType": "officialDegree",
