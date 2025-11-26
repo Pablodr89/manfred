@@ -348,16 +348,6 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Entrenador de baloncesto nivel 1",
-        "startDate": "2013-01-01",
-        "institution": {
-          "name": "FAB Sevilla"
-        },
-        "finishDate": "2013-01-01"
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "FP Superior , Desarrollo de aplicaciones web",
         "startDate": "2021-09-01",
         "institution": {
