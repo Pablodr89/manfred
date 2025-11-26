@@ -616,15 +616,15 @@
         "type": "technology"
       },
       {
-        "name": "React Native",
-        "type": "technology"
-      },
-      {
         "name": "Tailwind",
         "type": "technology"
       },
       {
         "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "Vue",
         "type": "technology"
       }
     ],
