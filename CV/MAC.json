@@ -438,16 +438,6 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Técnico Superior en Animación de Actividades Físicas y Deportivas (TAFAD)",
-        "startDate": "2008-01-01",
-        "institution": {
-          "name": "IES Virgen de Los Reyes"
-        },
-        "finishDate": "2010-01-01"
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "Vue.js",
         "startDate": "2023-08-01",
         "institution": {
