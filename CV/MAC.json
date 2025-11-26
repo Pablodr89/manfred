@@ -372,16 +372,6 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "MongoDB",
-        "startDate": "2023-01-01",
-        "institution": {
-          "name": "Udemy"
-        },
-        "finishDate": "2023-01-31"
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
         "name": "NgRx",
         "startDate": "2023-10-01",
         "institution": {
