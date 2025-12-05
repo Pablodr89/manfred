@@ -49,7 +49,7 @@
             "finishDate": "2025-10-01",
             "challenges": [
               {
-                "description": "- Desarrollo frontend con React, Next.js, JavaScript, TypeScript y TailwindCSS.\n- Integración de APIs mediante TanStack Query.\n- Gestión de datos y lógica relacionada con PostgreSQL."
+                "description": "- Desarrollo frontend con React, Next.js, JavaScript, TypeScript y TailwindCSS.\n- Integración de APIs mediante TanStack Query.\n- Gestión de datos y lógica relacionada con PostgreSQL.\n- Gestión de entornos utilizando Dokploy, incluyendo administración de bases de datos, despliegues automáticos y depuración de errores en entornos controlados."
               }
             ],
             "competences": [
