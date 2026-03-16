@@ -582,6 +582,10 @@
         {
           "name": "Zustand",
           "type": "technology"
+        },
+        {
+          "name": "jQuery",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
